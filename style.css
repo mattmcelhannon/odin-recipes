@@ -1,0 +1,45 @@
+body {
+    background: #002b36;
+    color: #eee8d5;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+    background: #586e75;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title {
+    background: #dc322f;
+    margin-top: 0;
+    margin-bottom: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+.first-recipe,
+.second-recipe {
+    background-color: #b58900;
+    color: ;
+    padding: 8px;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+.third-recipe {
+    background-color: #b58900;
+    padding: 8px;
+    font-size: 20px;
+}
+
+button {
+    background: #eee8d5;
+    border: 1px solid #eee8d5;
+    padding: 8px;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 8px;
+}
