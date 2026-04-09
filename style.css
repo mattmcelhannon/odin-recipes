@@ -35,7 +35,7 @@ ul {
     list-style-type: none;
 }
 
-.recipe-button {
+.button {
     background-color: white;
     color: black;
     border-color: black;
@@ -45,4 +45,9 @@ ul {
     height: 50px;
     width: 250px;
     font-size: 20px;
+}
+
+img {
+    height: 450px;
+    width: 800px;
 }
